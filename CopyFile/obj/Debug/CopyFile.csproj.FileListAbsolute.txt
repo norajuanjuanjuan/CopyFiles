@@ -1,0 +1,5 @@
+D:\Source_Code\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+D:\Source_Code\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+D:\Source_Code\CopyFile\CopyFile\obj\Debug\CopyFile.csprojResolveAssemblyReference.cache
+D:\Source_Code\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+D:\Source_Code\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
